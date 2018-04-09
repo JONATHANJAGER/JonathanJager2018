@@ -1,0 +1,211 @@
+/* Mobile Device */
+@media screen and (min-width: 374px) and (max-width: 321px) {
+	.body {
+		height: 2450px;
+	}
+}
+
+@media screen and (min-width: 375px) {
+	.body {
+		height: 2450px;
+	}
+}
+
+@media screen and (min-width: 425px) {
+	.body {
+		height: 2380px;
+	}
+}
+
+/* Table Decive */
+@media screen and (min-width: 768px) {
+	.body {
+		height: 2180px;
+	}
+
+	.top h1 {
+		font-size: 80px;
+	}
+
+	.top p {
+		font-size: 30px;
+		margin-left: 6%;
+	}
+
+	.moon img {
+		top: -1220px;
+		left: 615px;
+	}
+
+	.body img {
+		height: 370px;
+		width: 370px;
+		margin-bottom:0;
+	}
+
+	.foot {
+		height:415px;
+	}
+
+	.social ul li {
+		margin: 60px;
+	}
+
+	.social a li img {
+		width: 100px;
+		height: 100px;
+	}
+
+	.foot .info h3 {
+		font-size:28px;
+		top:0;
+	}
+
+	.overlay-content p {
+		font-size: 30px;
+	}
+}
+
+/* Desktop Decive */
+@media screen and (min-width: 1024px) {
+	.body {
+		height: 2365px;
+	}
+
+	.top {
+		height: 1255px;
+	}
+
+	.top img {
+		height: 1260px;
+	}
+
+	.earth img {
+		height: 350px;
+		margin-top: 0px;
+	}
+
+	.moon img {
+		height: 170px;
+		left:760px;
+	}
+
+	.pie img {
+		height: 600px;
+		top: -1825px;
+		left:-925px;
+	}
+
+	.pie1 img {
+		height: 300px;
+	}
+
+	.spaceman img {
+		top:-900px;
+		height: 110px;
+		margin-left: 650px;
+	}
+	.social ul {
+		margin-left: 0;
+		width:100%;
+		left:115%;
+		bottom: -170px;
+	}
+	.social ul li {
+		margin:0;
+	}
+
+	.foot {
+		height: 620px;
+	}
+
+	.foot .info {
+		bottom: 0;
+		left:-125px;
+	}
+
+	.foot .info h3 {
+		font-size: 45px;
+		top: 0px;
+
+	}
+
+	.social a li img {
+		width: 100px;
+		height: 100px;
+	}
+}
+
+/* Desktop Decive */
+@media screen and (min-width: 1440px) {
+	.top {
+		height: 1570px;
+	}
+
+	.top img {
+		height: 1600px;
+	}
+
+	.top h1 {
+		font-size: 83px;
+		top: -1000px;
+	}
+
+	.top p {
+		font-size: 30px;
+		letter-spacing: 58px;
+		top: -1060px;
+	}
+
+	.earth img {
+		height: 400px;
+		width: 400px;
+		margin-left: -50px;
+		margin-top: 0px;
+	}
+
+	.moon img {
+		height: 170px;
+		left:760px;
+	}
+
+	.pie img {
+		height: 600px;
+		top: -1825px;
+		left:-925px;
+	}
+
+	.pie1 img {
+		height: 300px;
+	}
+
+	.spaceman img {
+		top:-1060px;
+		height: 95px;
+		margin-left: 650px;
+	}
+
+	.body {
+		height: 2366px;
+	}
+
+	.social ul {
+		margin-left: 0;
+		bottom: -265px;
+		left: 185%;
+	}
+
+	.social a li img {
+		width: 100px;
+		height: 100px;
+	}
+
+	.foot .info {
+		bottom: 0;
+	}
+
+	.foot .info h3 {
+		font-size: 70px;
+		top: 0;
+		left: 5%;
+	}
